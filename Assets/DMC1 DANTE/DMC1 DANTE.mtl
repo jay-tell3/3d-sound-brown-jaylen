@@ -1,0 +1,164 @@
+# exported in Zmodeler Android (FSS)
+# 18 materials
+
+newmtl Material0
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd slow_brass
+
+newmtl Material1
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd slow_coat_2
+
+newmtl Material2
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd slow_coat
+
+newmtl Material3
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd slow_shirt
+
+newmtl Material4
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd slow_sleeves
+
+newmtl Material5
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd body_d
+
+newmtl Material6
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd pants_d
+
+newmtl Material7
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd pl006_skin_BM
+
+newmtl Material8
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd face_diff
+
+newmtl Material9
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd face_diff
+
+newmtl Material10
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd glove_diff
+
+newmtl Material11
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd inner_diff
+
+newmtl Material12
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd arm_diff
+
+newmtl Material13
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd wp005_rebellion_BMout
+
+newmtl Material14
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd arm_diff0
+
+newmtl Material15
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd pl006_skin_BM
+
+newmtl Material16
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd pl016_000_002out
+
+newmtl Material17
+Ns 320.000
+Ka 1.0000 1.0000 1.0000
+Kd 0.5843 0.5843 0.5843
+Ks 1.0000 1.0000 1.0000
+Ke 0.0000 0.0000 0.0000
+illum 2
+map_Kd pl016_000_002out2
